@@ -1,0 +1,124 @@
+[
+  {
+    "organisation": "C4 Logistics Ltd",
+    "role": "IT Developer",
+    "start": "Mar 2025",
+    "end": "Aug 2025",
+    "type": "Contract",
+    "highlights": [
+      "Maintained and enhanced freight portal for suppliers, customers, and admin staff using C#/.NET, ASP.NET, SQL Server.",
+      "Integrated freight exchanges with RESTful APIs.",
+      "Automated frontend testing with Selenium, improving release quality."
+    ],
+    "stack": [
+      "C#",
+      ".NET",
+      "ASP.NET",
+      "SQL Server",
+      "REST",
+      "Selenium"
+    ]
+  },
+  {
+    "organisation": "Practice Plus Group",
+    "role": "ASP.NET Web Developer",
+    "start": "Mar 2022",
+    "end": "Jan 2025",
+    "highlights": [
+      "Supported and enhanced patient, referral, and appointment systems using C#/.NET, ASP.NET, SQL Server, TFS.",
+      "Improved system stability and user experience for healthcare professionals and patients."
+    ],
+    "stack": [
+      "C#",
+      ".NET",
+      "ASP.NET",
+      "SQL Server",
+      "TFS",
+      "Agile"
+    ]
+  },
+  {
+    "organisation": "Landmarc Support Services",
+    "role": "Application Developer",
+    "start": "Jan 2020",
+    "end": "Feb 2022",
+    "highlights": [
+      "Migrated apps from Windows Server 2012 to 2016 with TFS CI/CD, automating builds and deployments.",
+      "Upgraded SQL Server databases (2012 \u2192 2016).",
+      "Integrated COTS products for compliance, audit, and approvals workflows.",
+      "Worked in Agile Scrum team delivering iterative improvements with stand-ups, sprint planning, and retros."
+    ],
+    "stack": [
+      "C#",
+      ".NET",
+      "TFS",
+      "CI/CD",
+      "SQL Server",
+      "Agile"
+    ]
+  },
+  {
+    "organisation": "Sopra Steria Ltd",
+    "role": "Software Engineer",
+    "start": "Feb 2011",
+    "end": "Dec 2019",
+    "highlights": [
+      "Developed biometric identification and verification solutions using C#/.NET, VB.NET, ASP.NET, SQL Server.",
+      "Built secure web applications for law enforcement remote access and reporting.",
+      "Streamlined biometric data distribution to secured clients.",
+      "Completed ITIL Foundation certification."
+    ],
+    "stack": [
+      "C#",
+      ".NET",
+      "VB.NET",
+      "ASP.NET",
+      "SQL Server",
+      "Security"
+    ]
+  },
+  {
+    "organisation": "Intabase Solutions Ltd, Bournemouth",
+    "role": "VB.NET & ASP.NET Developer",
+    "start": "Apr 2010",
+    "end": "Jan 2011",
+    "highlights": [
+      "Enhanced residential park management system and demographic data platform.",
+      "Implemented Google Maps API integration for postcode and county visualization."
+    ],
+    "stack": [
+      "VB.NET",
+      "ASP.NET",
+      "Google Maps API"
+    ]
+  },
+  {
+    "organisation": "Environment Agency UK (Placement)",
+    "role": "Database Designer",
+    "start": "Sep 2008",
+    "end": "Oct 2009",
+    "highlights": [
+      "Re-engineered MS Access databases using VB 6.0, SQL, and automated reporting."
+    ],
+    "stack": [
+      "VB6",
+      "SQL",
+      "MS Access",
+      "Reporting"
+    ]
+  },
+  {
+    "organisation": "Early Career \u2014 HSBC, Coutts Information Services",
+    "role": "Analyst / Research",
+    "start": "2002",
+    "end": "2006",
+    "highlights": [
+      "Roles in data processing and research with experience in automation and process efficiency."
+    ],
+    "stack": [
+      "Data",
+      "Automation",
+      "Process Improvement"
+    ]
+  }
+]

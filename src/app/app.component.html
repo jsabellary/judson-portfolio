@@ -1,0 +1,18 @@
+<nav class="nav">
+  <div class="nav-inner container">
+    <a routerLink="/" class="brand">Judson Bellary</a>
+    <div class="menu">
+      <a routerLink="/" routerLinkActive="active">Home</a>
+      <a routerLink="/projects" routerLinkActive="active">Projects</a>
+      <a routerLink="/experience" routerLinkActive="active">Experience</a>
+      <a class="button" href="mailto:jsabellary@yahoo.com">Contact</a>
+    </div>
+  </div>
+</nav>
+<main class="container">
+  <router-outlet></router-outlet>
+</main>
+<footer class="footer">
+  © {{ currentYear }} Judson Able Bellary · Salisbury, UK ·
+  <span class="mono">07716 016915</span>
+</footer>

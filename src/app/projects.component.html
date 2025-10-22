@@ -1,0 +1,12 @@
+
+<h2>Demo Projects</h2>
+<p class="subtitle">Real deployments with CI/CD — click a card to open the live demo.</p>
+<div class="grid">
+  <a class="card" *ngFor="let p of projects" [href]="p.url" target="_blank" rel="noopener">
+    <h3>{{ p.title }}</h3>
+    <p>{{ p.description }}</p>
+    <div>
+      <span class="tag" *ngFor="let t of p.tech">{{ t }}</span>
+    </div>
+  </a>
+</div>

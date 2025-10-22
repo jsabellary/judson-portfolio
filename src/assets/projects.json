@@ -1,0 +1,35 @@
+[
+  {
+    "title": "FlightFinder React (AWS Amplify)",
+    "description": "React app deployed via GitHub Actions to AWS Amplify.",
+    "tech": [
+      "React",
+      "TypeScript",
+      "CI/CD",
+      "AWS Amplify"
+    ],
+    "url": "https://master.d2lruavcpp3awr.amplifyapp.com"
+  },
+  {
+    "title": "FlightFinder Blazor (.NET 8, Azure)",
+    "description": ".NET 8 Blazor app deployed to Azure via GitHub Actions.",
+    "tech": [
+      ".NET 8",
+      "Blazor",
+      "Azure App Service",
+      "GitHub Actions"
+    ],
+    "url": "https://flightfinder-blazor-bfg2d5bzesa2a6aq.uksouth-01.azurewebsites.net/"
+  },
+  {
+    "title": "FlightFinder API 3 (.NET 8, Azure)",
+    "description": "REST API for FlightFinder deployed to Azure via GitHub Actions.",
+    "tech": [
+      ".NET 8",
+      "ASP.NET",
+      "REST",
+      "Azure"
+    ],
+    "url": "https://flightfinder-api-3-dvbpbdd0a0hgenhw.uksouth-01.azurewebsites.net/"
+  }
+]

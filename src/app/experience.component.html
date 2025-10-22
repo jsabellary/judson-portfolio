@@ -1,0 +1,15 @@
+
+<h2>Professional Experience</h2>
+<p class="subtitle">Concise overview with responsibilities, tech stack, and impact per role.</p>
+<div class="grid">
+  <div class="card" *ngFor="let e of items">
+    <div class="kicker">{{ e.start }} — {{ e.end }} <span *ngIf="e.type">· {{ e.type }}</span></div>
+    <h3>{{ e.role }} — {{ e.organisation }}</h3>
+    <ul>
+      <li *ngFor="let h of e.highlights">{{ h }}</li>
+    </ul>
+    <div *ngIf="e.stack?.length">
+      <span class="tag" *ngFor="let s of e.stack">{{ s }}</span>
+    </div>
+  </div>
+</div>
