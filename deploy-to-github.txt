@@ -1,0 +1,32 @@
+GITHUB DEPLOYMENT INSTRUCTIONS
+================================
+
+1. CREATE GITHUB REPOSITORY:
+   - Go to: https://github.com/new
+   - Repository name: judson-portfolio
+   - Owner: jsabellary
+   - Visibility: Public (recommended for portfolio)
+   - DO NOT initialize with README
+   - Click "Create repository"
+
+2. RUN THESE COMMANDS IN TERMINAL:
+   cd "c:\Users\judson\source\repos\judson-portfolio"
+   git remote add origin https://github.com/jsabellary/judson-portfolio.git
+   git push -u origin main
+
+3. VERIFY DEPLOYMENT:
+   - Your repository will be at: https://github.com/jsabellary/judson-portfolio
+   - All your Angular portfolio files will be visible
+   - Others can clone and run your project
+
+4. OPTIONAL - ENABLE GITHUB PAGES:
+   - Go to repository Settings > Pages
+   - Set source to GitHub Actions
+   - You can deploy the built Angular app for live viewing
+
+READY TO DEPLOY:
+✅ Git repository initialized
+✅ All files committed (320 files)
+✅ Working Angular app with zone.js fix
+✅ Proper .gitignore configured
+✅ Main branch ready for push

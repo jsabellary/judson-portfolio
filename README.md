@@ -1,5 +1,4 @@
-
-# Judson Bellary — Angular Portfolio
+# Judson Able Bellary — Angular Portfolio
 
 A minimal, modern Angular (v17) portfolio to showcase software engineering work.
 Built with **standalone components**, **router**, and simple responsive styles.
